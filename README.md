@@ -1,3 +1,6 @@
+
+## Hi there, my name Mykhailo Gogol and I'm Front-end developer 👋 
+
 <img align="left" width="35" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="35" alt="HTML" title="HTML" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" />
 <img align="left" width="35" alt="CSS" title="CSS" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" />
