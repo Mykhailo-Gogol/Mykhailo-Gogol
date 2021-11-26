@@ -1,6 +1,6 @@
-### Hi there, my name is Mykhailo Gogol 👋
+### Hi there,  my name is Mykhailo Gogol 👋
 
-<nav>
+<nav style="display: flex">
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" title="HTML"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" title="CSS"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541552.png" alt="JS" title="JS"/>
