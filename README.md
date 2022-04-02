@@ -5,8 +5,9 @@
 <img align="left" width="35" alt="HTML" title="HTML" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" />
 <img align="left" width="35" alt="CSS" title="CSS" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" />
 <img align="left" width="35" alt="JS" title="JS" src="https://cdn-icons-png.flaticon.com/512/541/541552.png" />
-<img align="left" width="35" alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />
-<img align="left" width="35" alt="Vue" title="Vue" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183673.png?token=exp=1637920482~hmac=ab391c2d8303f68632501afbd5e776aa"/>
+<img align="left" width="35" alt="React" title="React" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" />
+<img align="left" width="35" alt="Redux" title="Redux" src="https://cdn-icons-png.flaticon.com/512/5684/5684408.png" />
+<img align="left" width="35" alt="Vue" title="Vue" src="https://cdn-icons-png.flaticon.com/512/4710/4710921.png"/>
 <img align="left" width="35" alt="TypeScript" title="TypeScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img align="left" width="35" alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
+<img align="left" width="35" alt="NodeJS" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" width="35" alt="Bitbucket" title="Bitbucket" src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" />
