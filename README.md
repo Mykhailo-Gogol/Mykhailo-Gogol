@@ -1,7 +1,7 @@
 <h1>Hi there! 🙌</h1>
 
 <p> Welcome to my page! My name is Mykhailo, I'm a FullStack developer from Ukraine, currently working on something interesting.
-<h2>Things I code with</h2>
+<h2>Things I code with:</h2>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
