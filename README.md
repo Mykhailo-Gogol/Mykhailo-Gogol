@@ -25,5 +25,20 @@ Welcome to my page! My name is Mykhailo, I'm a FullStack developer from Ukraine,
 ## My certifications:
 
 <section>
-  <img width="150" height="150" style="object-fit: contain;" alt="Google Cloud Engineer" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" />
+  <img 
+    width="150"
+    height="150"
+    style="object-fit: contain;"
+    alt="Google Cloud Engineer"
+    src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
+  />
+
+
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="5cb3e609-d265-414b-b4df-ede4e147a528"
+    data-share-badge-host="https://www.credly.com"
+  />
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js" />
 </section>
