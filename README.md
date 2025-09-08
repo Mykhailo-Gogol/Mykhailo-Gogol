@@ -25,7 +25,7 @@ Welcome to my page! My name is Mykhailo, I'm a FullStack developer from Ukraine,
 ## My certifications:
 
 <section>
-  <a href="https://www.credly.com/badges/5cb3e609-d265-414b-b4df-ede4e147a528/public_url target="_blank">
+  <a href="https://www.credly.com/badges/5cb3e609-d265-414b-b4df-ede4e147a528/public_url" target="_blank">
     <img 
       width="150"
       height="150"
