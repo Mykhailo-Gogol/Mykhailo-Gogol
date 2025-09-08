@@ -1,6 +1,6 @@
 # Hi there! 🙌
 
-Welcome to my page! My name is Mykhailo, I'm a FullStack developer from Ukraine, currently working on something interesting.
+Welcome to my page! My name is Mykhailo, I'm a Full-Stack developer from Ukraine, currently working on something interesting.
 
 ## Things I code with:
   
@@ -25,13 +25,7 @@ Welcome to my page! My name is Mykhailo, I'm a FullStack developer from Ukraine,
 ## My certifications:
 
 <section>
-  <a href="https://www.credly.com/badges/5cb3e609-d265-414b-b4df-ede4e147a528/public_url" target="_blank">
-    <img 
-      width="150"
-      height="150"
-      style="object-fit: contain;"
-      alt="Google Cloud Engineer"
-      src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
-    />
+  <a href="https://www.credly.com/badges/5cb3e609-d265-414b-b4df-ede4e147a528/public_url">
+    <img width="150" height="150" style="object-fit: contain;" alt="Google Cloud Engineer" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" />
   </a>
 </section>
