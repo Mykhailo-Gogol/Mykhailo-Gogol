@@ -1,12 +1,12 @@
 # Hi there! 🙌
 
-Welcome to my page! My name is Mykhailo, I'm a Full-Stack developer from Ukraine, currently working on something interesting.
+My name is **Mykhailo**, I'm a Full-Stack developer from Ukraine, currently working on something interesting.
 
 ## My certifications:
 
 <section>
   <a href="https://www.credly.com/badges/5cb3e609-d265-414b-b4df-ede4e147a528/public_url">
-    <img width="150" height="150" style="object-fit: contain;" alt="Google Cloud Engineer" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" />
+    <img width="100" height="100" style="object-fit: contain;" alt="Google Cloud Engineer" src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" />
   </a>
 </section>
 
@@ -45,14 +45,15 @@ Welcome to my page! My name is Mykhailo, I'm a Full-Stack developer from Ukraine
 ### Platforms ###
 <section>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase&logoColor=ffca28" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-20232A?style=for-the-badge&logo=Sentry&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-20232A?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-20232A?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
 </section>
 
-### Git/GitHub ###
+### Other ###
 <section>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/Github%20Actions-20232A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=E44C30" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/Github%20Actions-20232A?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </section>
