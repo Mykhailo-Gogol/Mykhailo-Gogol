@@ -1,4 +1,4 @@
-# Hi there! 🙌
+# Hello World!
 
 My name is **Mykhailo**, I'm a Full-Stack developer from Ukraine, currently working on something interesting.
 
