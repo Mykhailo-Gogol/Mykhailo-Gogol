@@ -47,6 +47,7 @@ My name is **Mykhailo**, I'm a Full-Stack developer from Ukraine, currently work
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-20232A?style=for-the-badge&logo=Sentry&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-20232A?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/claude-20232A?style=for-the-badge&logo=claude&logoColor=23D97757" />
 </section>
 
 ### Other ###
